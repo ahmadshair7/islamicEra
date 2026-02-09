@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "title": "Islamic Flashes",
+      "iconName": "auto_awesome",
+      "navigationRoute": "/islamic_flashes"
+    },
+    {
+      "title": "Qibla Direction",
+      "iconName": "explore",
+      "navigationRoute": "/qibla"
+    },
+    {
+      "title": "Prayer Times",
+      "iconName": "access_time",
+      "navigationRoute": "/prayer_times"
+    },
+    {
+      "title": "Salah Tracker",
+      "iconName": "check_circle_outline",
+      "navigationRoute": "/salah_tracker"
+    },
+    {
+      "title": "Qaida",
+      "iconName": "menu_book",
+      "navigationRoute": "/qaida"
+    },
+    {
+      "title": "Names of Allah",
+      "iconName": "format_list_bulleted",
+      "navigationRoute": "/names_of_allah"
+    },
+    {
+      "title": "Tasbeeh Counter",
+      "iconName": "front_hand",
+      "navigationRoute": "/tasbeeh"
+    },
+    {
+      "title": "Supplications",
+      "iconName": "calculate",
+      "navigationRoute": "/supplications"
+    },
+    {
+      "title": "Share Location",
+      "iconName": "location_on",
+      "navigationRoute": "/share_location"
+    },
+    {
+      "title": "My Profile",
+      "iconName": "person",
+      "navigationRoute": "/profile"
+    },
+    {
+      "title": "Offline Data Manager",
+      "iconName": "cloud_download",
+      "navigationRoute": "/download_data"
+    }
+  ]
+}

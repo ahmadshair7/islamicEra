@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "type": "ayah",
+        "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+        "translation": "Indeed, with hardship comes ease.",
+        "reference": "Qur'an 94:6",
+        "active": true
+    },
+    {
+        "id": "2",
+        "type": "ayah",
+        "arabic": "وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+        "translation": "And whoever puts their trust in Allah, then He will suffice them.",
+        "reference": "Qur'an 65:3",
+        "active": true
+    },
+    {
+        "id": "3",
+        "type": "ayah",
+        "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ",
+        "translation": "So remember Me, and I will remember you.",
+        "reference": "Qur'an 2:152",
+        "active": true
+    },
+    {
+        "id": "4",
+        "type": "ayah",
+        "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+        "translation": "And your Lord is going to give you, and you will be satisfied.",
+        "reference": "Qur'an 93:5",
+        "active": true
+    },
+    {
+        "id": "5",
+        "type": "ayah",
+        "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "translation": "Indeed, it is in the remembrance of Allah that hearts find peace.",
+        "reference": "Qur'an 13:28",
+        "active": true
+    },
+    {
+        "id": "6",
+        "type": "hadith",
+        "arabic": "الطُّهُورُ شَطْرُ الْإِيمَانِ",
+        "translation": "Cleanliness is half of faith.",
+        "reference": "Sahih Muslim 223",
+        "active": true
+    },
+    {
+        "id": "7",
+        "type": "hadith",
+        "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+        "translation": "The best among you are those who learn the Qur'an and teach it.",
+        "reference": "Sahih Bukhari 5027",
+        "active": true
+    },
+    {
+        "id": "8",
+        "type": "hadith",
+        "arabic": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+        "translation": "Whoever travels a path in search of knowledge, Allah will make easy for them a path to Paradise.",
+        "reference": "Sahih Muslim 2699",
+        "active": true
+    },
+    {
+        "id": "9",
+        "type": "hadith",
+        "arabic": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+        "translation": "A Muslim is one from whose tongue and hand other Muslims are safe.",
+        "reference": "Sahih Bukhari 10",
+        "active": true
+    },
+    {
+        "id": "10",
+        "type": "hadith",
+        "arabic": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+        "translation": "Your smile for your brother is a charity.",
+        "reference": "Jami' at-Tirmidhi 1956",
+        "active": true
+    },
+    {
+        "id": "11",
+        "type": "dua",
+        "arabic": "رَبِّ زِدْنِي عِلْمًا",
+        "translation": "My Lord, increase me in knowledge.",
+        "reference": "Qur'an 20:114",
+        "active": true
+    },
+    {
+        "id": "12",
+        "type": "dua",
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "translation": "Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire.",
+        "reference": "Qur'an 2:201",
+        "active": true
+    },
+    {
+        "id": "13",
+        "type": "dua",
+        "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+        "translation": "My Lord, expand my chest and ease my task for me.",
+        "reference": "Qur'an 20:25-26",
+        "active": true
+    },
+    {
+        "id": "14",
+        "type": "dua",
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+        "translation": "O Allah, I ask You for guidance, piety, chastity, and self-sufficiency.",
+        "reference": "Sahih Muslim 2721",
+        "active": true
+    },
+    {
+        "id": "15",
+        "type": "dua",
+        "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "translation": "O Allah, help me to remember You, thank You, and worship You properly.",
+        "reference": "Abu Dawud 1522",
+        "active": true
+    },
+    {
+        "id": "16",
+        "type": "dhikr",
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "translation": "Glory be to Allah and praise be to Him.",
+        "reference": "Morning & Evening Dhikr",
+        "active": true
+    },
+    {
+        "id": "17",
+        "type": "dhikr",
+        "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "translation": "There is no power and no strength except with Allah.",
+        "reference": "Treasure of Paradise",
+        "active": true
+    },
+    {
+        "id": "18",
+        "type": "dhikr",
+        "arabic": "أَسْتَغْفِرُ اللَّهَ",
+        "translation": "I seek forgiveness from Allah.",
+        "reference": "Daily Dhikr",
+        "active": true
+    },
+    {
+        "id": "19",
+        "type": "dhikr",
+        "arabic": "الْحَمْدُ لِلَّهِ",
+        "translation": "All praise is due to Allah.",
+        "reference": "Daily Dhikr",
+        "active": true
+    },
+    {
+        "id": "20",
+        "type": "dhikr",
+        "arabic": "اللَّهُ أَكْبَرُ",
+        "translation": "Allah is the Greatest.",
+        "reference": "Daily Dhikr",
+        "active": true
+    },
+    {
+        "id": "21",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Start and end your day with the remembrance of Allah. It brings peace to the heart and blessings to your time.",
+        "reference": "Islamic Wisdom",
+        "active": true
+    },
+    {
+        "id": "22",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Pray your five daily prayers on time. They are the pillar of Islam and a direct connection to Allah.",
+        "reference": "Islamic Reminder",
+        "active": true
+    },
+    {
+        "id": "23",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Give charity, even if it's small. Every good deed counts, and charity purifies your wealth.",
+        "reference": "Islamic Wisdom",
+        "active": true
+    },
+    {
+        "id": "24",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Be patient in difficulty. Allah rewards those who remain steadfast through trials.",
+        "reference": "Islamic Reminder",
+        "active": true
+    },
+    {
+        "id": "25",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Read at least one ayah of the Qur'an daily. Even a small amount of recitation brings immense reward.",
+        "reference": "Islamic Wisdom",
+        "active": true
+    },
+    {
+        "id": "26",
+        "type": "ayah",
+        "arabic": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ",
+        "translation": "And be patient, for your patience is only through Allah.",
+        "reference": "Qur'an 16:127",
+        "active": true
+    },
+    {
+        "id": "27",
+        "type": "ayah",
+        "arabic": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ",
+        "translation": "And when My servants ask you about Me, indeed I am near.",
+        "reference": "Qur'an 2:186",
+        "active": true
+    },
+    {
+        "id": "28",
+        "type": "hadith",
+        "arabic": "الدُّعَاءُ هُوَ الْعِبَادَةُ",
+        "translation": "Supplication is the essence of worship.",
+        "reference": "Jami' at-Tirmidhi 3371",
+        "active": true
+    },
+    {
+        "id": "29",
+        "type": "tip",
+        "arabic": null,
+        "translation": "Friday is a blessed day. Increase your prayers and send blessings upon the Prophet ﷺ.",
+        "reference": "Jumu'ah Reminder",
+        "active": true
+    },
+    {
+        "id": "30",
+        "type": "dua",
+        "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "translation": "Sufficient for us is Allah, and He is the best Disposer of affairs.",
+        "reference": "Qur'an 3:173",
+        "active": true
+    }
+]
